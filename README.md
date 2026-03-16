@@ -67,3 +67,5 @@ Gerenciadas pelo `uv` via `pyproject.toml`:
    - `df_winter_rank` — ordenado por `Total_Winter`
    - `df_overall_rank` — soma das duas temporadas, ordenado por `Total_Geral`
 7. Gráficos de barras horizontais empilhadas (Gold / Silver / Bronze) para os top 50 de cada ranking
+
+**README feito por IA**
